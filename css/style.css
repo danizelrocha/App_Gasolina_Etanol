@@ -1,3 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Multipleque o preço do alcool por 100
 Divida pelo preço do litro da gasolina.
 Se o resultado for 70 ou menos , isso indica que o etanol é mais vantajoso
