@@ -23,18 +23,17 @@ body{
 }
 
 .gas{
-    border-radius: 4px;
-    border: 2px solid black;
-    
+  border-radius: 4px;
+  border: 2px solid black;   
 }
 
 .eta{
-    border-radius: 4px;
-    border: 2px solid black;
+  border-radius: 4px;
+  border: 2px solid black;
 }
 
 .start{
-    cursor: pointer;
+  cursor: pointer;
 }
 
 
