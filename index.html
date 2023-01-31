@@ -19,18 +19,21 @@
     </div>
   
     <input 
-        type="text"
+        type="number"
+        stop="0.01"
+        id="gasolina"
         class="gas"
         placeholder="Gasolina R$ por litro"
     />
 
     <input
-        type="text" 
+        type="number"
+        stop="0.01"
+        id="etanol" 
         class="eta" 
         placeholder="Etanol R$ por litro"
     />
-  
-    <button class="start">Calcular</button>
+    <button onclick="calcular()" class="start">Calcular</button>
 
 </body>
 </html>
