@@ -22,8 +22,7 @@ body{
 }
 
 img{
-    padding: 16px 0;
-    margin: 0 0 28px;
+  margin: 0 0 16px;
 }
 .consulta{
   padding: 2px;
@@ -31,27 +30,30 @@ img{
 
 .gas{
   border-radius: 4px;
-  border: 2px solid #292728;   
+  border: 2px solid #292728; 
+  font-size: 20px;  
   text-align: center;
   width: 11.5rem;
-  padding: 4px;
+  padding: 12px;
   outline: none;
 }
 
 .eta{
   border-radius: 4px;
   border: 2px solid #292728;
+  font-size: 20px;
   text-align: center;
   width: 11.5rem;
-  margin: 8px;
-  padding: 4px;
+  margin: 18px;
+  padding:12px;
   outline: none;
 }
 
 .start{
   cursor: pointer;
-  margin: 8px;
+  margin: 4px;
   border-radius: 4px;
+  font-size: 20px;
   font-weight: 600;
   color: rgb(27, 28, 1);
   background: aliceblue;
