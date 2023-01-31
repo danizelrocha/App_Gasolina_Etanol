@@ -3,7 +3,7 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   font-family: 'Itim', cursive;
 }
 
@@ -21,8 +21,12 @@ body{
   align-items: center;
 }
 
+h1{
+  margin: 0 0 4px;
+}
+
 img{
-  margin: 0 0 16px;
+  margin: 0 0 8px;
 }
 .consulta{
   padding: 2px;
@@ -44,21 +48,20 @@ img{
   font-size: 20px;
   text-align: center;
   width: 11.5rem;
-  margin: 18px;
+  margin: 18px 0;
   padding:12px;
   outline: none;
 }
 
 .start{
   cursor: pointer;
-  margin: 4px;
   border-radius: 4px;
   font-size: 20px;
   font-weight: 600;
   color: rgb(27, 28, 1);
   background: aliceblue;
-  height: 2.5rem;
-  width: 11.5rem;
+  height: 3rem;
+  width: 13rem;
   letter-spacing:1.4px;
 }
 
@@ -72,6 +75,7 @@ button:hover{
 h2{
   font-weight: 600;
 }
+
 
 
 
