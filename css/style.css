@@ -9,10 +9,10 @@
 
 body{
   background-image:linear-gradient(
-    48deg,
-    #0f0f04 15%,
-    #c4c720 50%,
-    #0f0f04 84%
+    60deg,
+    #0f0f04 9%,
+    #c4c720 55%,
+    #0f0f04 90%
   );
   height: 100vh;
   display: flex;
@@ -35,6 +35,7 @@ img{
 .gas{
   border-radius: 4px;
   border: 2px solid #292728; 
+  background:  rgb(206, 215, 221);
   font-size: 20px;  
   text-align: center;
   width: 11.5rem;
@@ -45,6 +46,7 @@ img{
 .eta{
   border-radius: 4px;
   border: 2px solid #292728;
+  background:  rgb(206, 215, 221);
   font-size: 20px;
   text-align: center;
   width: 11.5rem;
@@ -59,7 +61,7 @@ img{
   font-size: 20px;
   font-weight: 600;
   color: rgb(27, 28, 1);
-  background: aliceblue;
+  background:  rgb(206, 215, 221);
   height: 3rem;
   width: 13rem;
   letter-spacing:1.4px;
