@@ -1,3 +1,12 @@
+/*---------Nota Memoria de calculo-------------
+
+  Multipleque o preço do alcool por 100.
+  Divida pelo preço do litro da gasolina.
+Se o resultado for 70 ou menos,
+isso indica que o etanol é mais vantajoso
+
+  Nova média é de 72,5% para efeito de calculo*/
+
 const msgResultado = document.querySelector("h2");
 
 function calcular() {
